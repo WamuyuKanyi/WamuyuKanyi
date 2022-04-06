@@ -3,7 +3,8 @@
 ## I am a She, Developer and Student
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning HTML, CSS, JS
-- 👯 I’m looking to learn from other developers 
+- 👯 I’m looking to learn from other developers
+- 🥅 2022 Goals: Learn more about html, css and javascript(I have actually started to code this year)
 - ⚡ Fun fact: I love to try new cuisines and I am a dog lover
  
 ### Connect with me:
