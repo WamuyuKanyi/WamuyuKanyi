@@ -3,7 +3,7 @@
 ## I am a She, Developer and Student
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to learn from other developers 
+- 👯 I’m looking to learn from other developers 
  
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/wamuyu-kanyi-337a52219#gh-light-mode-only)
