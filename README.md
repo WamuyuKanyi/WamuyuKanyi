@@ -4,6 +4,7 @@
 - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning HTML, CSS, JS
 - 👯 I’m looking to learn from other developers 
+- ⚡ Fun fact: I love to try new cuisines and I am a dog lover
  
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/wamuyu-kanyi-337a52219#gh-light-mode-only)
