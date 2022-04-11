@@ -11,6 +11,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/wamuyu-kanyi-337a52219#gh-light-mode-only)
 &nbsp;&nbsp;
 
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/wamuyu-kanyi-337a52219#gh-light-mode-only)
+
 
 <!---
 WamuyuKanyi/WamuyuKanyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
