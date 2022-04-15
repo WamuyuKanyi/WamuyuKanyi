@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
 
 
-## I am a She, Developer and Student
+## I am a Developer and Student
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML, CSS, JS
 - 👯 I’m looking to learn from other developers
