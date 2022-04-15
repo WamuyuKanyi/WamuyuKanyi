@@ -1,7 +1,7 @@
 # Hi there, I'm Kanyi - aka [devScope]👋
 
 ## I am a She, Developer and Student
-- 👀 I’m interested in HTML, CSS, JS
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML, CSS, JS
 - 👯 I’m looking to learn from other developers
 - 🥅 2022 Goals: Learn more about html, css and javascript(I have actually started to code this year)
@@ -13,8 +13,16 @@
 WamuyuKanyi/WamuyuKanyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Wamuyu Kanyi</h1>
+<h1 align="center">Hi 👋, I'm Wamuyu Kanyi aka [devScope] </h1>
+
 <h3 align="center">A passionate frontend developer from Kenya</h3>
+## I am a She, Developer and Student
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning HTML, CSS, JS
+- 👯 I’m looking to learn from other developers
+- 🥅 2022 Goals: Learn more about html, css and javascript(I have actually started to code this year)
+- ⚡ Fun fact: I love to try new cuisines and I am a dog lover
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wamuyukanyi&label=Profile%20views&color=0e75b6&style=flat" alt="wamuyukanyi" /> </p>
 
