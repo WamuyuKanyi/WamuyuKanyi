@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Wamuyu Kanyi aka [devScope] </h1>
 
 <h3 align="center">A passionate frontend developer from Kenya</h3>
+
+
 ## I am a She, Developer and Student
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML, CSS, JS
