@@ -3,7 +3,7 @@
 WamuyuKanyi/WamuyuKanyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Wamuyu Kanyi - aka [devScope] </h1>
+<h1 align="center">Hi 👋, I'm Wamuyu Kanyi - aka [P!NN] </h1>
 
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="left" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
