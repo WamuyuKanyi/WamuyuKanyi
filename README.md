@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 ## I am a Developer and Student
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, PYTHON
 - 👯 I’m looking to learn from other developers
-- 🥅 2022 Goals: Learn more about web development
+- 🥅 2024 Goals: Learn more about web development
 - ⚡ Fun fact: I love to try new cuisines and I am a dog lover
  
 
